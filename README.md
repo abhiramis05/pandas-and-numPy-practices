@@ -1,6 +1,5 @@
 # pandas-and-numPy-practices
 
-# NumPy and Pandas Practice
 
 This repository contains Python practice and exercises using **NumPy** and **Pandas**. It covers fundamental concepts of numerical computing, data manipulation, data analysis, and working with structured datasets.
 
